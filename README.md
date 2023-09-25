@@ -1,2 +1,7 @@
 # live-attendence-record
 logs the student attendence (in and out from classroom) in class
+
+#### Date: 26-Sep-2023
+Research starts
+- This project will use Computer Vision, Deep learning, CNNs and libraries like opencv ... (will write when found).
+- Starting a project that records live attendance of a student when it enters in classroom as well as when it leaves.
