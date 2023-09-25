@@ -1,5 +1,5 @@
 # live-attendence-record
-logs the student attendence (in and out from classroom) in class
+an automatic student attendance monitoring system using computer vision:
 
 #### Date: 26-Sep-2023
 Research starts
